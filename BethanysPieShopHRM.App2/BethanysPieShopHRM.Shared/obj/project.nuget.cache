@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qn3OmM0JIBVNAclg85y0NTXzDlLYxG485UYYUOZMjMmwzuB7TF0+gBXfSucYFj23ACig8Y3NoEeNJojdZ4ApIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leona\\Desktop\\09\\demos\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
